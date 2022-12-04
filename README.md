@@ -2,10 +2,10 @@
 Code to transliterate names, convert them to a Hindi pronunciation code, and then predict caste using the names.
 
 ## Table of contents
-* [General information] (#general-information)
-* [Requirements] (#requirements)
-* [Name conversion] (#name-conversion)
-* [Caste prediction results] (#caste-prediction-results)
+* [General information](#general-information)
+* [Requirements](#requirements)
+* [Name conversion](#name-conversion)
+* [Caste prediction results](#caste-prediction-results)
 
 ## General information
 
